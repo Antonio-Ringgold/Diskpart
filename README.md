@@ -21,24 +21,24 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="DiskPart"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="700%" width="80%" alt="DiskPart"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="DiskPart"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="700%" width="80%" alt="DiskPart"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Confirm what you selected:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="DiskPart"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Wait for the sanitation to complete (It can take a while):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="DiskPart"/>
 <br />
 <br />
 Sanitization complete!
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="DiskPart"/>
+Check the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="650%" width="70%" alt="DiskPart"/>
 </p>
 
 
